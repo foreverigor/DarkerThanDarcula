@@ -30,6 +30,7 @@
 
   <extensions defaultExtensionNs="com.intellij">
     <themeProvider id="361d6a0b-3910-48c3-9446-3fc6e3683ad3" path="/DarkerThanDarcula.theme.json"/>
+    <themeProvider id="5eaf6c41-df80-47b8-ae83-a205ec3032b4" path="/DarkerThanDarculaVivid.theme.json"/>
   </extensions>
 
 </idea-plugin>

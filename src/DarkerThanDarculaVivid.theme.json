@@ -1,5 +1,5 @@
 {
-  "name": "DarkerThanDarcula",
+  "name": "DarkerThanDarcula (Vivid Colors)",
   "dark": true,
   "author": "foreverigor",
 
@@ -19,6 +19,8 @@
 
       "acceleratorForeground": "#D0D0D9",
       "acceleratorSelectionForeground": "#D0D0D9",
+
+      "errorForeground": "#dd3962",
 
       "borderColor": "#4E4C63",
       "disabledBorderColor": "#45405C",
@@ -308,7 +310,17 @@
 
   "icons": {
     "ColorPalette": {
+      "Actions.Red": "#c63a5d",
+      "Actions.Yellow": "#caba2d",
+      "Actions.Green": "#25ad6b",
+      "Actions.Blue": "#4d85ff",
+
+      "Objects.RedStatus": "#dd3962",
+      "Objects.Pink": "#f98b9e",
+      "Objects.Yellow": "#caba2d",
+      "Objects.Purple": "#af71e0",
       "Objects.BlackText": "#000000ff",
+      "Objects.GreenAndroid": "#78c257",
 
       "Checkbox.Background.Default.Dark": "#343445",
       "Checkbox.Background.Disabled.Dark": "#2C2C3B"
