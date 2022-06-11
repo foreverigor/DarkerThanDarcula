@@ -1,9 +1,7 @@
 {
-  "name": "Dark purple",
+  "name": "DarkerThanDarcula",
   "dark": true,
-  "author": "JetBrains",
-
-  "editorScheme": "/themes/darkPurpleScheme.xml",
+  "author": "foreverigor",
 
   "ui": {
     "*": {
