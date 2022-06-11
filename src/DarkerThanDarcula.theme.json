@@ -27,7 +27,7 @@
 
       "separatorForeground": "#6d6a80",
       "separatorColor": "#4e4b61",
-      "lineSeparatorColor": "#55506b",
+      "lineSeparatorColor": "#55506b"
     },
 
     "ActionButton": {
@@ -46,7 +46,7 @@
       "shadowColor": "#27282B",
 
       "default": {
-        "foreground": "#D0D0D9",
+        "foreground": "#D0D0D9"
       }
     },
 
@@ -69,14 +69,14 @@
 
     "CompletionPopup":  {
       "selectionInactiveBackground": "#44405c",
-      "nonFocusedMask": "#00000033",
+      "nonFocusedMask": "#00000033"
     },
 
     "Component": {
       "errorFocusColor": "#993750",
       "inactiveErrorFocusColor": "#522530",
       "warningFocusColor": "#8c812b",
-      "inactiveWarningFocusColor": "#47441f",
+      "inactiveWarningFocusColor": "#47441f"
     },
 
     "Counter": {
@@ -187,7 +187,7 @@
       "hoverBackground": "#00000022",
 
       "Tab": {
-        "selectedForeground": "#D0D0D9",
+        "selectedForeground": "#D0D0D9"
       },
 
       "SearchField.borderColor": "#1a1721",
@@ -198,7 +198,7 @@
 
       "Button": {
         "installFillForeground": "#D0D0D9",
-        "updateForeground":"#D0D0D9",
+        "updateForeground":"#D0D0D9"
       }
     },
 
@@ -228,7 +228,7 @@
     "SearchEverywhere": {
       "Header.background": "#3a394d",
       "Tab": {
-        "selectedForeground": "#D0D0D9",
+        "selectedForeground": "#D0D0D9"
       },
       "SearchField":{
         "background": "#252533",
@@ -251,14 +251,14 @@
     },
 
     "SpeedSearch": {
-      "foreground": "#D0D0D9",
+      "foreground": "#D0D0D9"
     },
 
     "StatusBar.borderColor": "#1a1721",
 
     "TabbedPane": {
       "disabledUnderlineColor": "#5e5b6b",
-      "contentAreaColor": "#1a1721",
+      "contentAreaColor": "#1a1721"
     },
 
     "TableHeader": {
@@ -275,11 +275,11 @@
     },
 
     "TextArea": {
-      "background": "#3A384D",
+      "background": "#3A384D"
     },
 
     "TextField": {
-      "background": "#3A384D",
+      "background": "#3A384D"
     },
 
     "ToggleButton": {
@@ -292,7 +292,7 @@
 
     "ToolTip": {
       "background": "#463f57",
-      "Actions.background": "#323245",
+      "Actions.background": "#323245"
     },
 
     "ToolWindow": {
@@ -303,7 +303,7 @@
 
       "HeaderTab": {
         "selectedBackground": "#0a0a0a66",
-        "selectedInactiveBackground": "#0a0a0a4D",
+        "selectedInactiveBackground": "#0a0a0a4D"
       },
 
       "Button": {
@@ -365,7 +365,7 @@
       "Objects.GreenAndroid": "#78c257",
 
       "Checkbox.Background.Default.Dark": "#343445",
-      "Checkbox.Background.Disabled.Dark": "#2C2C3B",
+      "Checkbox.Background.Disabled.Dark": "#2C2C3B"
     }
   }
 }
